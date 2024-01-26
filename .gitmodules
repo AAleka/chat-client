@@ -1,0 +1,15 @@
+[submodule "vendor/imgui"]
+	path = vendor/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "vendor/vendor/imgui"]
+	path = vendor/vendor/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "vendor/vendor/stb"]
+	path = vendor/vendor/stb
+	url = https://github.com/nothings/stb.git
+[submodule "vendor/stb"]
+	path = vendor/stb
+	url = https://github.com/nothings/stb.git
+[submodule "vendor/glfw"]
+	path = vendor/glfw
+	url = https://github.com/glfw/glfw.git
