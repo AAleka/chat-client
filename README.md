@@ -4,9 +4,9 @@
 ### OpenSSL can be downloaded from the following [website](https://www.openssl.org/source/).
 
 
-https://github.com/AAleka/chat-client/assets/56869115/0c54f0c5-24de-4131-9591-1150aa7a1c03
+https://github.com/AAleka/chat-client/assets/56869115/65e100cb-15f5-4034-806a-04575f94a3f8
 
 
 
-https://github.com/AAleka/chat-client/assets/56869115/caef884a-5ccd-4910-af83-e9437eb4317c
+https://github.com/AAleka/chat-client/assets/56869115/e7906d23-8c59-420b-b03c-2994ff45ccea
 
