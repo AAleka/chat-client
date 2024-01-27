@@ -1,4 +1,4 @@
-# A client side of the instant messenging application using C++ with ASIO (non-BOOST), GLFW, ImGui, stb, and OpenSSL.
+# A client side of the instant messaging application using C++ with ASIO (non-BOOST), GLFW, ImGui, stb, and OpenSSL.
 ## A server side is available [here](https://github.com/AAleka/chat-server)
 ### ASIO can be downloaded from the following [website](https://think-async.com/Asio/).
 ### OpenSSL can be downloaded from the following [website](https://www.openssl.org/source/).
