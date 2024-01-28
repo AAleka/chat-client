@@ -110,8 +110,8 @@ int main()
     //HWND hWnd = GetConsoleWindow();
     //ShowWindow(hWnd, SW_HIDE);
 
-    std::string IP = "172.28.32.226";
-    std::string PORT = "8888";
+    std::string IP = "IP";
+    std::string PORT = "PORT";
     
     OpenSSL_add_all_algorithms();
     ERR_load_crypto_strings();
